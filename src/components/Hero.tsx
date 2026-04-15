@@ -55,7 +55,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.4 }}
           className="text-base md:text-xl leading-[1.6] text-ink-dim max-w-[600px] mb-10 px-4 md:px-0 font-light"
         >
-          A National Level 24-hour innovation event. The battlefield moves to Tamil Nadu — where discipline meets innovation.
+          A National Level 24-hour innovation event. The battlefield moves to JOY University, Tamil Nadu — where discipline meets innovation.
         </motion.p>
 
         {/* Date Badge */}
